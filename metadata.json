@@ -1,0 +1,6 @@
+{
+  "name": "3PLE A — Fintech, VTU, Travel, Retail & Estate",
+  "description": "Complete full-stack Nigerian fintech and digital services platform for VTU airtime & data, electricity bills, school fees, flight booking, estate agency, and reseller APIs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
